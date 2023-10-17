@@ -1,0 +1,40 @@
+{
+  "Employee1": {
+    "id": 1,
+    "Company": "SpaceX",
+    "Name": "Joshua Scalercio",
+    "Position": "Software Engineer",
+    "Location": "Davao City"
+  },
+
+  "Employee2": {
+    "id": 2,
+    "Company": "Facebook",
+    "Name": "James Piastro",
+    "Position": "Java Developer",
+    "Location": "Jerome"
+  },
+  "Employee3": {
+    "id": 3,
+    "Company": "Tiktok",
+    "Name": "Art Dela Cruz",
+    "Position": "Full Stack Developer",
+    "Location": "USA"
+  },
+
+  "Employee4": {
+    "id": 4,
+    "Company": "Pinterest",
+    "Name": "Honnie Pilitero",
+    "Position": "System Analyst",
+    "Location": "Bangkerohan"
+  },
+
+  "Employee5": {
+    "id": 5,
+    "Company": "Landbank",
+    "Name": "Dave Arafol",
+    "Position": "Database Administrator",
+    "Location": "Panacan"
+  }
+}
